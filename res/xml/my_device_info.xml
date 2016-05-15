@@ -96,6 +96,13 @@
         android:summary="@string/summary_placeholder"
         settings:allowDividerAbove="true"/>
 
+    <!-- Changelog -->
+    <Preference
+        android:key="changelog"
+        android:order="8"
+        android:title="@string/changelog_aosp_title"
+        android:fragment="com.android.settings.aosp.Changelog" />
+
     <!-- Model & hardware -->
     <Preference
         android:key="device_model"
