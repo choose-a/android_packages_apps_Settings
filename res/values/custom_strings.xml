@@ -29,4 +29,6 @@
     <string name="force_ambient_for_media_off">Disabled</string>
     <string name="force_ambient_for_media_on">Enabled</string>
     <string name="force_ambient_for_media_on_clean">Enabled with minimal info</string>
+    <string name="ambient_ticker_footer">Ambient Music Ticker allows for the ability to show the current music track info on the lockscreen with or without Ambient display enabled.\nYou can select from two layouts, normal and minimal. While this feature takes advantage of ambient display, it does not depend on it.</string>
+
 </resources>
