@@ -18,7 +18,6 @@
 */
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-
     <!-- Encryption and credential -->
     <string name="custom_encryption_and_credential_settings_summary_on">Device is encrypted</string>
     <string name="custom_encryption_and_credential_settings_summary_off">Device is decrypted</string>
@@ -26,4 +25,8 @@
     <string name="battery_image">Battery image</string>
     <string name="battery_image_description">Show battery image in status bar</string>
 
+    <string name="force_ambient_for_media_pref_title">Ambient Music Ticker</string>
+    <string name="force_ambient_for_media_off">Disabled</string>
+    <string name="force_ambient_for_media_on">Enabled</string>
+    <string name="force_ambient_for_media_on_clean">Enabled with minimal info</string>
 </resources>
